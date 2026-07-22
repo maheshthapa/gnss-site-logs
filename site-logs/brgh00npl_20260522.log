@@ -1,0 +1,294 @@
+     BRGH00NPL Site Information Form (site log v2.0)
+     International GNSS Service
+     See Instructions at:
+       https://files.igs.org/pub/station/general/sitelog_instr_v2.0.txt
+
+0.   Form
+
+     Prepared by (full name)  : Mahesh Thapa, Suresh Shrestha
+     Date Prepared            : 2026-05-22
+     Report Type              : UPDATE
+     If Update:
+      Previous Site Log       : brgh00npl_20260413.log
+      Modified/Added Sections : 3.2, 4.2
+
+
+1.   Site Identification of the GNSS Monument
+
+     Site Name                : Bardaghat
+     Nine Character ID        : BRGH00NPL
+     Monument Inscription     : 
+     IERS DOMES Number        : 
+     CDP Number               : 
+     Monument Description     : SHALLOW-DRILLED BRACED STAINLESS STEEL BAR
+       Height of the Monument : 1.5 m
+       Monument Foundation    : STAINLESS STEEL BARS GROUTED IN DRILLED HOLES
+       Foundation Depth       : 2.10 m
+     Marker Description       : GRP OF SCIGN D3 MOUNT
+     Date Installed           : 2025-07-16T00:00Z
+     Geologic Characteristic  : 
+       Bedrock Type           : 
+       Bedrock Condition      : 
+       Fracture Spacing       : 
+       Fault zones nearby     : 
+         Distance/activity    : 
+     Additional Information   : 
+
+2.   Site Location Information
+
+     City or Town             : Bardaghat, Nawalparasi Paschim 
+     State or Province        : Lumbini
+     Country or Region        : NPL
+     Tectonic Plate           : INDIAN
+     Approximate Position (ITRF)
+       X coordinate (m)       : 611819.921
+       Y coordinate (m)       : 5625824.179
+       Z coordinate (m)       : 2932443.406
+       Latitude (N is +)      : +273301.20
+       Longitude (E is +)     : +0834736.10
+       Elevation (m,ellips.)  : 60.2
+     Additional Information   : 
+
+
+3.   GNSS Receiver Information
+
+3.1  Receiver Type            : SPECTRA SP90M
+     Satellite System         : GPS+GLO+SBAS
+     Serial Number            : 6116R98016
+     Firmware Version         : 5.35
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2026-04-06T10:50Z
+     Date Removed             : 2026-04-13T00:30Z
+     Temperature Stabiliz.    : NONE
+     Additional Information   : Campaign Observation
+
+3.2  Receiver Type            : TRIMBLE R7 GNSS
+     Satellite System         : GPS+GLO
+     Serial Number            : 5442K28478
+     Firmware Version         : 5.01
+     Elevation Cutoff Setting : 10 deg
+     Date Installed           : 2026-05-14T13:29Z
+     Date Removed             : 2026-05-22T00:37Z
+     Temperature Stabiliz.    : NONE
+     Additional Information   : Campaign Observation
+
+3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
+     Satellite System         : (GPS+GLO+GAL+BDS+QZSS+SBAS)
+     Serial Number            : (A20, but note the first A5 is used in SINEX)
+     Firmware Version         : (A11)
+     Elevation Cutoff Setting : (deg)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Temperature Stabiliz.    : (none or tolerance in degrees C)
+     Additional Information   : (multiple lines)
+
+
+4.   GNSS Antenna Information
+
+4.1  Antenna Type             : TRM115000.10    NONE
+     Serial Number            : 62103B0096
+     Antenna Reference Point  : BAM
+     Marker->ARP Up Ecc. (m)  : 0.0083
+     Marker->ARP North Ecc(m) : 0.0000
+     Marker->ARP East Ecc(m)  : 0.0000
+     Alignment from True N    : 0 deg 
+     Antenna Radome Type      : NONE
+     Radome Serial Number     : 
+     Antenna Cable Type       : 
+     Antenna Cable Length     : 
+     Date Installed           : 2026-04-06T10:50Z
+     Date Removed             : 2026-04-13T00:30Z
+     Additional Information   : Campaign Observation
+
+4.2  Antenna Type             : TRM55971.00     NONE
+     Serial Number            : 1112118395
+     Antenna Reference Point  : BAM
+     Marker->ARP Up Ecc. (m)  : 0.0083
+     Marker->ARP North Ecc(m) : 0.0000
+     Marker->ARP East Ecc(m)  : 0.0000
+     Alignment from True N    : 0 deg 
+     Antenna Radome Type      : NONE
+     Radome Serial Number     : 
+     Antenna Cable Type       : 
+     Antenna Cable Length     : 
+     Date Installed           : 2026-05-14T13:29Z
+     Date Removed             : 2026-05-22T00:37Z
+     Additional Information   : Campaign Observation
+
+4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
+     Serial Number            : (A*, but note the first A5 is used in SINEX)
+     Antenna Reference Point  : (BPA/BCR/XXX from "antenna.gra"; see instr.)
+     Marker->ARP Up Ecc. (m)  : (F8.4)
+     Marker->ARP North Ecc(m) : (F8.4)
+     Marker->ARP East Ecc(m)  : (F8.4)
+     Alignment from True N    : (deg; + is clockwise/east)
+     Antenna Radome Type      : (A4 from rcvr_ant.tab; see instructions)
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+5.   Surveyed Local Ties
+
+5.x  Tied Marker Name         : 
+     Tied Marker Usage        : (SLR/VLBI/LOCAL CONTROL/FOOTPRINT/etc)
+     Tied Marker CDP Number   : (A4)
+     Tied Marker DOMES Number : (A9)
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+       dz (m)                 : (m)
+     Accuracy (mm)            : (mm)
+     Survey method            : (GPS CAMPAIGN/TRILATERATION/TRIANGULATION/etc)
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+6.   Frequency Standard
+
+6.x  Standard Type            : (INTERNAL or EXTERNAL H-MASER/CESIUM/etc)
+       Input Frequency        : (if external)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+7.   Collocation Information
+
+7.x  Instrumentation Type     : (GPS/GLONASS/DORIS/PRARE/SLR/VLBI/TIME/etc)
+       Status                 : (PERMANENT/MOBILE)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+8.   Meteorological Instrumentation
+
+8.1.x Humidity Sensor Model   : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy (% rel h)     : (% rel h)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.2.x Pressure Sensor Model   : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (hPa)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.3.x Temp. Sensor Model      : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (deg C)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.4.x Water Vapor Radiometer  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.5.x Other Instrumentation   : (multiple lines)
+
+
+9.  Local Ongoing Conditions Possibly Affecting Computed Position
+
+9.1.x Radio Interferences     : (TV/CELL PHONE ANTENNA/RADAR/etc)
+       Observed Degradations  : (SN RATIO/DATA GAPS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.2.x Multipath Sources       : (METAL ROOF/DOME/VLBI ANTENNA/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.3.x Signal Obstructions     : (TREES/BUILDINGS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+10.  Local Episodic Effects Possibly Affecting Data Quality
+
+10.x Date                     : (CCYY-MM-DD/CCYY-MM-DD)
+     Event                    : (TREE CLEARING/CONSTRUCTION/etc)
+
+11.   On-Site, Point of Contact Agency Information
+
+     Agency                   : Survey Department
+     Preferred Abbreviation   : SD
+     Mailing Address          : Survey Department, Minbhawan
+                              : Kathmandu, 44600
+     Primary Contact
+       Contact Name           : Geodetic Survey Division
+       Telephone (primary)    : +977 01 4106508
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : geodetic@dos.gov.np
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  :
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   :
+
+12.  Responsible Agency (if different from 11.)
+
+     Agency                   : 
+     Preferred Abbreviation   : 
+     Mailing Address          : 
+     Primary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   :
+
+13.  More Information
+
+     Primary Data Center      : 
+     Secondary Data Center    : 
+     URL for More Information : 
+     Hardcopy on File
+       Site Map               : 
+       Site Diagram           : 
+       Horizon Mask           : 
+       Monument Description   : 
+       Site Pictures          : 
+     Additional Information   : 
+     Antenna Graphics with Dimensions
+
+TRM115000.10
+TRM55971.00
+
+   / --------------------------------------------- \
+  +                                                 +
+   \ --------------------------------------------- /
+                   \               /
+                    \             /
+                     \-----x-----/                        <--  0.0000  BAM=ARP
+                                                                       RXC=NRP
+  <--                    0.3396                   -->                  Notches

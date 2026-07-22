@@ -1,0 +1,32 @@
+fourCharacterID,siteName,nineCharacterID,District,State
+BDPU,Bhadrapur,BDPU00NPL,Jhapa,Koshi
+BHDD,Bahundanda,BHDD00NPL,Lamjung,Gandaki
+BHND,Bhandara,BHND00NPL,Chitwan,Bagmati
+BLEW,Balewa,BLEW00NPL,Baglung,Gandaki
+BRDB,Bardibas,BRDB00NPL,Mahottari,Madhesh
+BRGH,Bardaghat,BRGH00NPL,Nawalparsi West,Lumbini
+CHJR,Chaurjahari,CHJR00NPL,Rukum West,Karnali
+DDCH,Dodhara Chadani,DDCH00NPL,Kanchanpur,Sudurpaschim
+DHKT,Dhankuta,DHKT00NPL,Dhankuta,Koshi
+DHNC,Dhunche,DHNC00NPL,Rasuwa,Bagmati
+DIKT,Diktel,DIKT00NPL,Khotang,Koshi
+DPYL,Dipayal,DPYL00NPL,Doti,Sudurpaschim
+JMBK,Jambukandh,JMBK00NPL,Dailekh,Karnali
+JOSM,Jomsom,JOSM00NPL,Mustang,Gandaki
+JUPH,Juphal,JUPH00NPL,Dolpa,Karnali
+KHLG,Khalanga,KHLG00NPL,Jumla,Karnali
+KKRL,Khakraula,KKRL00NPL,Kailali,Sudurpaschim
+KLBJ,Kalabanjar,KLBJ00NPL,Banke,Lumbini
+LMHI,Lamahi,LMHI00NPL,Dang,Lumbini
+LRCH,Larcha,LRCH00NPL,Sindupalchok,Bagmati
+MNBW,Minbhawan,MNBW00NPL,Kathmandu,Bagmati
+MNTH,Manthali,MNTH00NPL,Ramechhap,Bagmati
+MRTD,Martadi,MRTD00NPL,Bajura,Sudurpaschim
+NAGR,Nagarkot,NAGR00NPL,Bhaktapur,Bagmati
+PATO,Pato,PATO00NPL,Saptari,Madhesh
+PHPL,Phaplu,PHPL00NPL,Solukhumbu,Koshi
+PKLI,Pakali,PKLI00NPL,Sunsari,Koshi
+PLWA,Piluwa,PLWA00NPL,Bara,Madhesh
+PSTI,Pasti,PSTI00NPL,Darchula,Sudurpaschim
+SUKE,Suketar,SUKE00NPL,Taplejung,Koshi
+TLKT,Tilaurakot,TLKT00NPL,Kapilbastu,Lumbini
