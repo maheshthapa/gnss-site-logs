@@ -1,22 +1,22 @@
-     MRTD00NPL Site Information Form (site log v2.0)
+     LRCH00NPL Site Information Form (site log v2.0)
      International GNSS Service
      See Instructions at:
        https://files.igs.org/pub/station/general/sitelog_instr_v2.0.txt
 
 0.   Form
 
-     Prepared by (full name)  : Manisha Thapa, Jeewan Thapa, Bharat Panthi
-     Date Prepared            : 2026-04-22
+     Prepared by (full name)  : Sushmita Timilisina, Jeewan Thapa, Bharat Panthi
+     Date Prepared            : 2026-04-13
      Report Type              : NEW
      If Update:
-      Previous Site Log       : (ssssmrccc_ccyymmdd.log)
-      Modified/Added Sections : (n.n,n.n,...)
+      Previous Site Log       : 
+      Modified/Added Sections : 
 
 
 1.   Site Identification of the GNSS Monument
 
-     Site Name                : Martadi
-     Nine Character ID        : MRTD00NPL
+     Site Name                : Larcha
+     Nine Character ID        : LRCH00NPL
      Monument Inscription     : 
      IERS DOMES Number        : 
      CDP Number               : 
@@ -32,36 +32,36 @@
        Fracture Spacing       : 
        Fault zones nearby     : 
          Distance/activity    : 
-     Additional Information   : 
+     Additional Information   :
 
 
 2.   Site Location Information
 
-     City or Town             : Martadi, Bajura
-     State or Province        : Sudurpaschim
+     City or Town             : Larcha, Sindhupalchok
+     State or Province        : Bagmati
      Country or Region        : NPL 
      Tectonic Plate           : EURASIAN
      Approximate Position (ITRF)
-       X coordinate (m)       : 824854.310
-       Y coordinate (m)       : 5497859.282
-       Z coordinate (m)       : 3119124.372
-       Latitude (N is +)      : +292733.44
-       Longitude (E is +)     : +0812802.81
-       Elevation (m,ellips.)  : 1622.4 m
+       X coordinate (m)       : 400046.754
+       Y coordinate (m)       :	5626639.556
+       Z coordinate (m)       : 2969713.336
+       Latitude (N is +)      : +275527.11
+       Longitude (E is +)     : +0855559.48
+       Elevation (m,ellips.)  : 1340.4 m
      Additional Information   : 
 
 
 3.   GNSS Receiver Information
 
-3.1  Receiver Type            : TRIMBLE R9S
-     Satellite System         : GPS+GLO+GAL+BDS+SBAS+IRNSS
+3.1  Receiver Type            : Trimble R9s
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+SBAS+IRNSS
      Serial Number            : 5739R03603
      Firmware Version         : 5.40
      Elevation Cutoff Setting : 0 deg
-     Date Installed           : 2026-04-15T11:57Z
-     Date Removed             : 2026-04-22T00:30Z
-     Temperature Stabiliz.    : 
-     Additional Information   : Campaign Observation
+     Date Installed           : 2026-04-06T09:07Z
+     Date Removed             : 2026-04-13T00:30Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 
 
 3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
      Satellite System         : (GPS+GLO+GAL+BDS+QZSS+SBAS+IRNSS)
@@ -76,7 +76,7 @@
 
 4.   GNSS Antenna Information
 
-4.1  Antenna Type             : TRM115000.10    NONE
+4.1  Antenna Type             : TRM115000.10 NONE
      Serial Number            : 60433B0020
      Antenna Reference Point  : BAM
      Marker->ARP Up Ecc. (m)  : 0.0083
@@ -84,11 +84,11 @@
      Marker->ARP East Ecc(m)  : 0.0000
      Alignment from True N    : 0 deg
      Antenna Radome Type      : NONE
-     Radome Serial Number     : 
+     Radome Serial Number     : n/a
      Antenna Cable Type       : 
-     Antenna Cable Length     : 
-     Date Installed           : 2026-04-15T11:57Z
-     Date Removed             : 2026-04-22T00:30Z
+     Antenna Cable Length     : 10 m
+     Date Installed           : 2026-04-06T09:07Z
+     Date Removed             : 2026-04-13T00:30Z
      Additional Information   : Campaign Observation
 
 4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
@@ -105,6 +105,7 @@
      Date Installed           : (CCYY-MM-DDThh:mmZ)
      Date Removed             : (CCYY-MM-DDThh:mmZ)
      Additional Information   : (multiple lines)
+
 
 5.   Surveyed Local Ties
 
@@ -172,6 +173,7 @@
        Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
        Notes                  : (multiple lines)
 
+
 8.4.x Water Vapor Radiometer  : 
        Manufacturer           : 
        Serial Number          : 
@@ -208,7 +210,7 @@
 
 11.   On-Site, Point of Contact Agency Information
 
-     Agency                   : Survey Department
+     Agency                   : Survey Department, Nepal
      Preferred Abbreviation   : SD
      Mailing Address          : Survey Department, Minbhawan	 
                               : Kathmandu, 44600
@@ -224,7 +226,8 @@
        Telephone (secondary)  :
        Fax                    : 
        E-mail                 : 
-     Additional Information   :
+     Additional Information   : 
+
 
 12.  Responsible Agency (if different from 11.)
 
@@ -270,3 +273,12 @@ TRM115000.10
                      \-----x-----/                        <--  0.0000  BAM=ARP
                                                                        RXC=NRP
   <--                    0.3396                   -->                  Notches
+
+ARP: Antenna Reference Point
+    L1 : L1 Phase Center                   L2 : L2 Phase Center
+    BAM: bottom of antenna mount                  
+NRP:North Reference Point   
+    RXC:receiver connector (connect antenna to external receiver)  
+
+All dimensions are in meters.
+

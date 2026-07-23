@@ -1,70 +1,70 @@
-     MRTD00NPL Site Information Form (site log v2.0)
-     International GNSS Service
+     NAPI00NPL Site Information Form (site log)
+     International GPS Service
      See Instructions at:
-       https://files.igs.org/pub/station/general/sitelog_instr_v2.0.txt
+       ftp://igscb.jpl.nasa.gov/pub/station/general/sitelog_instr.txt
 
 0.   Form
 
-     Prepared by (full name)  : Manisha Thapa, Jeewan Thapa, Bharat Panthi
-     Date Prepared            : 2026-04-22
+     Prepared by (full name)  : Sushmita Timilsina, Dipesh Suwal
+     Date Prepared            : 2026-03-15
      Report Type              : NEW
      If Update:
-      Previous Site Log       : (ssssmrccc_ccyymmdd.log)
-      Modified/Added Sections : (n.n,n.n,...)
+      Previous Site Log       : 
+      Modified/Added Sections :
 
 
 1.   Site Identification of the GNSS Monument
 
-     Site Name                : Martadi
-     Nine Character ID        : MRTD00NPL
+     Site Name                : Napi Bibhag
+     Four Character ID        : NAPI
      Monument Inscription     : 
-     IERS DOMES Number        : 
-     CDP Number               : 
-     Monument Description     : SHALLOW-DRILLED BRACED STAINLESS STEEL BAR
-       Height of the Monument : 1.5 m
-       Monument Foundation    : STAINLESS STEEL BARS GROUTED IN DRILLED HOLES
-       Foundation Depth       : 2.10 m
-     Marker Description       : GRP OF SCIGN D3 MOUNT
-     Date Installed           : 2025-07-16T00:00Z
-     Geologic Characteristic  : 
-       Bedrock Type           : 
-       Bedrock Condition      : 
-       Fracture Spacing       : 
-       Fault zones nearby     : 
-         Distance/activity    : 
-     Additional Information   : 
+     IERS DOMES Number        :
+     CDP Number               :
+     Monument Description     : RCC Cylindrical Pillar
+       Height of the Monument : 2.5 m
+       Monument Foundation    : RCC Isolated Footing
+       Foundation Depth       : 1.5 m
+     Marker Description       :
+     Date Installed           :
+     Geologic Characteristic  :
+       Bedrock Type           :
+       Bedrock Condition      :
+       Fracture Spacing       :
+       Fault zones nearby     :
+         Distance/activity    :
+     Additional Information   :
 
 
 2.   Site Location Information
 
-     City or Town             : Martadi, Bajura
-     State or Province        : Sudurpaschim
-     Country or Region        : NPL 
+     City or Town             : Kathmandu
+     State or Province        : Bagmati
+     Country                  : NPL
      Tectonic Plate           : EURASIAN
      Approximate Position (ITRF)
-       X coordinate (m)       : 824854.310
-       Y coordinate (m)       : 5497859.282
-       Z coordinate (m)       : 3119124.372
-       Latitude (N is +)      : +292733.44
-       Longitude (E is +)     : +0812802.81
-       Elevation (m,ellips.)  : 1622.4 m
+       X coordinate (m)       : 459164.9295
+       Y coordinate (m)       : 5634377.0688
+       Z coordinate (m)       : 2946386.6692
+       Latitude (N is +)      : +274111.92
+       Longitude (E is +)     : +0852027.83
+       Elevation (m,ellips.)  : 1261.6 m
      Additional Information   : 
 
 
-3.   GNSS Receiver Information
+3.  GNSS Receiver Information
 
-3.1  Receiver Type            : TRIMBLE R9S
-     Satellite System         : GPS+GLO+GAL+BDS+SBAS+IRNSS
-     Serial Number            : 5739R03603
-     Firmware Version         : 5.40
+3.1  Receiver Type            : SPECTRA SP90M
+     Satellite System         : GPS+GLO+SBAS
+     Serial Number            : 6028R98017
+     Firmware Version         : 4.14
      Elevation Cutoff Setting : 0 deg
-     Date Installed           : 2026-04-15T11:57Z
-     Date Removed             : 2026-04-22T00:30Z
-     Temperature Stabiliz.    : 
-     Additional Information   : Campaign Observation
+     Date Installed           : 2022-01-01T00:00Z
+     Date Removed             : 
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
 
 3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
-     Satellite System         : (GPS+GLO+GAL+BDS+QZSS+SBAS+IRNSS)
+     Satellite System         : (GPS+GLO+GAL+BDS+QZSS+SBAS)
      Serial Number            : (A20, but note the first A5 is used in SINEX)
      Firmware Version         : (A11)
      Elevation Cutoff Setting : (deg)
@@ -77,19 +77,19 @@
 4.   GNSS Antenna Information
 
 4.1  Antenna Type             : TRM115000.10    NONE
-     Serial Number            : 60433B0020
+     Serial Number            : 
      Antenna Reference Point  : BAM
-     Marker->ARP Up Ecc. (m)  : 0.0083
-     Marker->ARP North Ecc(m) : 0.0000
-     Marker->ARP East Ecc(m)  : 0.0000
+     Marker->ARP Up Ecc. (m)  : 0.0000
+     Marker->ARP North Ecc(m) : 0.00000
+     Marker->ARP East Ecc(m)  : 0.00000
      Alignment from True N    : 0 deg
      Antenna Radome Type      : NONE
      Radome Serial Number     : 
      Antenna Cable Type       : 
-     Antenna Cable Length     : 
-     Date Installed           : 2026-04-15T11:57Z
-     Date Removed             : 2026-04-22T00:30Z
-     Additional Information   : Campaign Observation
+     Antenna Cable Length     : 10 m
+     Date Installed           : 
+     Date Removed             : 
+     Additional Information   : 
 
 4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
      Serial Number            : (A*, but note the first A5 is used in SINEX)
@@ -99,12 +99,13 @@
      Marker->ARP East Ecc(m)  : (F8.4)
      Alignment from True N    : (deg; + is clockwise/east)
      Antenna Radome Type      : (A4 from rcvr_ant.tab; see instructions)
-     Radome Serial Number     : 
+     Radome Serial Number     :
      Antenna Cable Type       : (vendor & type number)
      Antenna Cable Length     : (m)
      Date Installed           : (CCYY-MM-DDThh:mmZ)
      Date Removed             : (CCYY-MM-DDThh:mmZ)
      Additional Information   : (multiple lines)
+
 
 5.   Surveyed Local Ties
 
@@ -172,6 +173,7 @@
        Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
        Notes                  : (multiple lines)
 
+
 8.4.x Water Vapor Radiometer  : 
        Manufacturer           : 
        Serial Number          : 
@@ -208,7 +210,7 @@
 
 11.   On-Site, Point of Contact Agency Information
 
-     Agency                   : Survey Department
+     Agency                   : Survey Department, Nepal
      Preferred Abbreviation   : SD
      Mailing Address          : Survey Department, Minbhawan	 
                               : Kathmandu, 44600
@@ -224,7 +226,8 @@
        Telephone (secondary)  :
        Fax                    : 
        E-mail                 : 
-     Additional Information   :
+     Additional Information   : 
+
 
 12.  Responsible Agency (if different from 11.)
 
@@ -260,7 +263,12 @@
      Additional Information   : 
      Antenna Graphics with Dimensions
 
+TRM115000.00
 TRM115000.10
+TRM55971.00
+TRM57971.00
+TRM77971.00
+RNG80971.00
 
    / --------------------------------------------- \
   +                                                 +
@@ -270,3 +278,4 @@ TRM115000.10
                      \-----x-----/                        <--  0.0000  BAM=ARP
                                                                        RXC=NRP
   <--                    0.3396                   -->                  Notches
+  

@@ -1,0 +1,992 @@
+{
+    "BAUN00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 547099.902,
+        "Y": 5592434.339,
+        "Z": 3010305.313,
+        "Latitude": "28.339",
+        "Longitude": "84.413",
+        "Height": "1333.100",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "BDPU00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 190166.043,
+        "Y": 5705455.751,
+        "Z": 2835229.096,
+        "Latitude": "26.565",
+        "Longitude": "88.091",
+        "Height": "35.800",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "BHND00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 528699.589,
+        "Y": 5631382.135,
+        "Z": 2938106.175,
+        "Latitude": "27.608",
+        "Longitude": "84.637",
+        "Height": "156.900",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "BLWA00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 620338.218,
+        "Y": 5590498.295,
+        "Z": 2998749.381,
+        "Latitude": "28.223",
+        "Longitude": "83.668",
+        "Height": "862.200",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "BRDB00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 409721.311,
+        "Y": 5671929.531,
+        "Z": 2878922.755,
+        "Latitude": "27.006",
+        "Longitude": "85.868",
+        "Height": "162.900",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "BRGH00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 611819.921,
+        "Y": 5625824.179,
+        "Z": 2932443.406,
+        "Latitude": "27.550",
+        "Longitude": "83.793",
+        "Height": "60.200",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "CHJR00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 761171.162,
+        "Y": 5551459.812,
+        "Z": 3037990.487,
+        "Latitude": "28.627",
+        "Longitude": "82.193",
+        "Height": "708.370",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "DDCH00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 963294.125,
+        "Y": 5504841.356,
+        "Z": 3063975.237,
+        "Latitude": "28.897",
+        "Longitude": "80.074",
+        "Height": "140.700",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "DHKT00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 262697.945,
+        "Y": 5682533.446,
+        "Z": 2877138.657,
+        "Latitude": "26.984",
+        "Longitude": "87.353",
+        "Height": "1040.300",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "DHNC00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 461907.3356,
+        "Y": 5612764.144,
+        "Z": 2988323.072,
+        "Latitude": "28.111",
+        "Longitude": "85.295",
+        "Height": "2045.600",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "DKTL00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 317432.009,
+        "Y": 5669573.583,
+        "Z": 2898734.369,
+        "Latitude": "27.199",
+        "Longitude": "86.795",
+        "Height": "1839.600",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "DPYL00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 877301.178,
+        "Y": 5500343.369,
+        "Z": 3098476.85,
+        "Latitude": "29.251",
+        "Longitude": "80.938",
+        "Height": "631.600",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "JMBK00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 822077.5993,
+        "Y": 5527294.368,
+        "Z": 3067163.0,
+        "Latitude": "28.924",
+        "Longitude": "81.540",
+        "Height": "1335.695",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "JOMS00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 611766.868,
+        "Y": 5563249.49,
+        "Z": 3054248.153,
+        "Latitude": "28.784",
+        "Longitude": "83.725",
+        "Height": "2715.400",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "KHLG00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 756633.4916,
+        "Y": 5518314.029,
+        "Z": 3101980.177,
+        "Latitude": "29.278",
+        "Longitude": "82.193",
+        "Height": "2410.800",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "JUPH00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 698444.383,
+        "Y": 5541790.457,
+        "Z": 3073914.156,
+        "Latitude": "28.988",
+        "Longitude": "82.817",
+        "Height": "2448.400",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "KKRL00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 875375.9481,
+        "Y": 5544952.386,
+        "Z": 3017867.238,
+        "Latitude": "28.423",
+        "Longitude": "81.029",
+        "Height": "82.300",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "KLBJ00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 820131.858,
+        "Y": 5575377.632,
+        "Z": 2977329.891,
+        "Latitude": "28.008",
+        "Longitude": "81.632",
+        "Height": "82.700",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "LMHI00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 736380.3647,
+        "Y": 5593810.147,
+        "Z": 2965038.963,
+        "Latitude": "27.882",
+        "Longitude": "82.501",
+        "Height": "238.300",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "MNTH00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 388715.4694,
+        "Y": 5653724.154,
+        "Z": 2917852.579,
+        "Latitude": "27.400",
+        "Longitude": "86.067",
+        "Height": "496.900",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "MRTD00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 824854.31,
+        "Y": 5497859.282,
+        "Z": 3119124.372,
+        "Latitude": "29.459",
+        "Longitude": "81.467",
+        "Height": "1622.300",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "PATO00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 336242.972,
+        "Y": 5701216.462,
+        "Z": 2830172.432,
+        "Latitude": "26.514",
+        "Longitude": "86.625",
+        "Height": "16.100",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "PHPL00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 337268.379,
+        "Y": 5652353.671,
+        "Z": 2930830.938,
+        "Latitude": "27.523",
+        "Longitude": "86.585",
+        "Height": "2340.400",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "PKLI00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 275805.874,
+        "Y": 5696212.478,
+        "Z": 2846712.199,
+        "Latitude": "26.681",
+        "Longitude": "87.228",
+        "Height": "51.700",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "PLWA00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 489003.147,
+        "Y": 5657528.513,
+        "Z": 2894552.514,
+        "Latitude": "27.165",
+        "Longitude": "85.060",
+        "Height": "80.100",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "PSTI00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 921746.076,
+        "Y": 5466415.039,
+        "Z": 3146516.888,
+        "Latitude": "29.745",
+        "Longitude": "80.429",
+        "Height": "1407.500",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "SUKE00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 227691.804,
+        "Y": 5666605.105,
+        "Z": 2914064.025,
+        "Latitude": "27.352",
+        "Longitude": "87.699",
+        "Height": "2398.600",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "TLKT00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 682067.53,
+        "Y": 5615123.865,
+        "Z": 2937384.072,
+        "Latitude": "27.601",
+        "Longitude": "83.074",
+        "Height": "45.100",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "NAGR00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 441507.4833,
+        "Y": 5636192.0218,
+        "Z": 2947444.4396,
+        "Latitude": "27.693",
+        "Longitude": "85.521",
+        "Height": "2109.700",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    },
+    "NAPI00NPL": {
+        "CountryOrRegion": "NPL",
+        "X": 459164.9295,
+        "Y": 5634377.0688,
+        "Z": 2946386.6692,
+        "Latitude": "27.687",
+        "Longitude": "85.341",
+        "Height": "1261.600",
+        "Receiver": {
+            "Name": "",
+            "SatelliteSystem": "",
+            "SerialNumber": "",
+            "FirmwareVersion": "",
+            "ElevCutoff": "",
+            "DateInstalled": ""
+        },
+        "Antenna": {
+            "Name": "",
+            "Radome": "",
+            "SerialNumber": "",
+            "ARP": "",
+            "MarkerUp": "",
+            "MarkerNorth": "",
+            "MarkerEast": "",
+            "DateInstalled": ""
+        },
+        "Clock": {
+            "Type": "",
+            "InputFrequency": "",
+            "EffectiveDates": ""
+        },
+        "LastData": ""
+    }
+}
